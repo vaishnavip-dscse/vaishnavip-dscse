@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Vaishnavi P 👋
 
-<!--
-**vaishnavip-dscse/vaishnavip-dscse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science Engineering (Specialization in Data Science)  
+📍 Presidency University, Bangalore  
+💡 Passionate about coding, exploring IoT (Arduino, Raspberry Pi), and data science.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** Python, Java, C
+- **Tools & Tech:** Arduino, Raspberry Pi, PHPMyAdmin, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Cafe Management System** – PHP-based system to manage orders and billing.
+- **IoT Mini Projects** – Worked on Arduino and Raspberry Pi for automation and sensors.
+
+## 📚 Certifications
+- Python – Scaler Academy
+
+## 📫 Contact Me
+- **Email:** vaishnavipp444@gmail.com  
+- *(LinkedIn coming soon)*
