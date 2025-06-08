@@ -13,7 +13,8 @@
 - **IoT Mini Projects** – Worked on Arduino and Raspberry Pi for automation and sensors.
 
 ## 📚 Certifications
-- Python – Scaler Academy
+-Python – Scaler Academy ([View Certificate](https://github.com/vaishnavip-dscse/vaishnavip-dscse/blob/main/document.pdf))
+
 
 ## 📫 Contact Me
 - **Email:** vaishnavipp444@gmail.com  
